@@ -1,0 +1,100 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "C7F79CC5-B520-4B55-B40D-1EC1A7DBD135",
+    "green": 0,
+    "red": 0
+  },
+  "changeIdentifier": 5202,
+  "do_objectID": "0131A4B0-0226-408E-9DD5-64C44860CE16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B5CB061-53E4-439C-8B26-8F821B76BC55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5528855D-4D17-4EC9-9F99-221CB34A3040",
+    "height": 28,
+    "width": 28,
+    "x": 1071,
+    "y": 476
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F0FFF010-AD0E-489D-B084-E2F2BFFB4056",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF1B8214-1F4F-4C10-B4DA-826892928A82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8EE9552-8406-4073-957D-62AAA722BE5C"
+    }
+  ],
+  "name": "Icons / Play",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "361821FD-D711-485A-88DC-36F33A7293F8",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "82130D6C-DB9B-4659-93C4-0F9D32A17050",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4495B924-B78E-42BD-939A-5F3B859D9DC3",
+    "guides": [
+    ]
+  }
+}
